@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bodyContainer{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mainContainer{
+    width: 20vw;
+    height: 20vh;
+    background-color: rgb(181, 161, 201);
+    border-radius: 20px;
+    display: flex;
+    font-size: 2.5rem;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
